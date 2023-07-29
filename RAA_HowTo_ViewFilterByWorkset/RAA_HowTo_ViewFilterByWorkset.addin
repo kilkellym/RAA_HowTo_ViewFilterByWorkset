@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>RAA_HowTo_ViewFilterByWorkset - Command 1</Text>
+    <Description>Some description for RAA_HowTo_ViewFilterByWorkset</Description>
+    <Assembly>RAA_HowTo_ViewFilterByWorkset.dll</Assembly>
+    <FullClassName>RAA_HowTo_ViewFilterByWorkset.Command1</FullClassName>
+    <ClientId>efa14d40-c2f3-4b0b-8b38-7771056f1c4f</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+    <Text>RAA_HowTo_ViewFilterByWorkset - Command 2</Text>
+    <Description>Some description for RAA_HowTo_ViewFilterByWorkset</Description>
+    <Assembly>RAA_HowTo_ViewFilterByWorkset.dll</Assembly>
+    <FullClassName>RAA_HowTo_ViewFilterByWorkset.Command2</FullClassName>
+    <ClientId>1e55d7e0-5874-4730-a437-1f223551bb6b</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>RAA_HowTo_ViewFilterByWorkset</Name>
+    <Assembly>RAA_HowTo_ViewFilterByWorkset.dll</Assembly>
+    <FullClassName>RAA_HowTo_ViewFilterByWorkset.App</FullClassName>
+    <ClientId>4b396277-95b5-4119-b8d9-7d9336e69877</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+</RevitAddIns>
